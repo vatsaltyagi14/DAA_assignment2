@@ -11,10 +11,10 @@
 - Remove the first few comment lines before giving them as input to the code files.
 - Make sure the dataset filenames exactly match the ones specified in the code.
 - The datasets are :
-  - as-caida.txt 
-  - as20000102.txt 
-  - CA-HepTh.txt 
-  - netscience.txt 
+  - as-caida.txt   https://drive.google.com/file/d/1_mpWonJiL9hq3_pp2UNW9_4xwOMWXe7B/view
+  - as20000102.txt   https://drive.google.com/file/d/1cH80v7RBTKeY7r529kRjeo08BAa8xOda/view
+  - CA-HepTh.txt   https://drive.google.com/file/d/1fsvhEtWCHTIrK-stuNRVPbIYIOQQM2mx/view
+  - netscience.txt   https://drive.google.com/file/d/1RHrPzeuPVNipyBHRvoaCgmNCP4qUo75t/view 
 
 ---
 
