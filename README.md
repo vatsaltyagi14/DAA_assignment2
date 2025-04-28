@@ -39,3 +39,14 @@
 - For compilation g++ -O3 -std=c++17 exact.cpp -o output
 - For execution ./output (for Algorithm 1)
 - For execution ./output input.txt (for Algorithm 4)
+
+---
+
+
+| S.No | Name                           | ID Number        | Contribution                                |
+|:----:|:-------------------------------|:-----------------|:--------------------------------------------|
+| 1    | Vatsal Tyagi                   | 2022A7PS1388H    | Exact Algorithm Implementation              |
+| 2    | Rithvik Raajha                 | 2022A7PS1361H    | CoreExact Code Implementation               |
+| 3    | Rohan Kakade                   | 2022A7PS0216H    | Code Optimization and Project Report        |
+| 4    | Nishit Nilay                   | 2022A7PS0230H    | Code Optimization                           |
+| 5    | Aditya Narwania                | 2022A7PS1540H    | Website and README Implementation           |
